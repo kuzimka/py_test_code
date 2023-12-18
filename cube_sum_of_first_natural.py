@@ -9,3 +9,5 @@ def sumOfSeries(n):
 # Driver Function
 n = 5
 print(sumOfSeries(n))
+
+### Python Program for cube sum of first n natural numbers using Naive Approach
